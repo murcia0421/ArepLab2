@@ -47,6 +47,7 @@ This project is a simple web framework implemented in Java that handles REST ser
 
 ### Arquitecture
 
+![Captura de pantalla 2025-02-06 225403](https://github.com/user-attachments/assets/2e024f0b-3686-48b3-ae80-62cc2905fd84)
 
 
 ### Running the Server
@@ -118,7 +119,6 @@ Tests can be run to ensure the correctness of the framework.
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/5cfab364-250b-45e8-8650-2e41660d05e0)
 ![image](https://github.com/user-attachments/assets/50b06e54-ba27-4e19-b82e-a9f44d903a23)
 ![image](https://github.com/user-attachments/assets/8bd5a428-bf75-4b1e-a860-e1c6f97502d1)
 
